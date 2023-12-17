@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-5 m-5">
       <div className='object-center'>
-        Hi, this is Arga's Personal Web
+        Hi, this is Arga&apos;s Personal Web
       </div>
       <div className='flex flex-row items-center mt-5'>
         <div className='flex flex-col bg-white items-center justify-between h-56 w-56 m-5 p-5 rounded-xl'>
